@@ -79,8 +79,7 @@ To create two datacenters with one host each and execute cloudlets of two differ
 9. Collect results  
 10. Stop simulation
 
-https://github.com/vasanthkumarch/6.-Create-two-datacenters-with-one-host-each-and-run-cloudlets-of-two-users-on-them.-/blob/main/README.md
-## Sample Output
+ ## Sample Output
 
 ========== RESULT ==========
 Cloudlet 0 executed in Datacenter 2 using VM 0
